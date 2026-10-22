@@ -1,0 +1,148 @@
+{
+  "fps": 30,
+  "endCard": 3.4,
+  "segments": [
+    {
+      "s": 0.12,
+      "e": 3.54,
+      "zoom": [
+        1.0,
+        1.05
+      ],
+      "cap": "",
+      "hook": {
+        "tag": "CRAZYRC'S",
+        "title": "TOP SELLER",
+        "size": 214,
+        "dir": "hookA",
+        "mode": "badge"
+      }
+    },
+    {
+      "s": 4.08,
+      "e": 7.68,
+      "zoom": [
+        1.1,
+        1.15
+      ],
+      "cap": "",
+      "hook": {
+        "tag": "JJRC",
+        "title": "C8815",
+        "size": 296,
+        "dir": "hookB",
+        "mode": "behind"
+      }
+    },
+    {
+      "s": 7.8,
+      "e": 10.9,
+      "zoom": [
+        1.0,
+        1.05
+      ],
+      "cap": "IT COMES WITH A *SHOVEL*"
+    },
+    {
+      "s": 11.28,
+      "e": 12.96,
+      "zoom": [
+        1.18,
+        1.22
+      ],
+      "cap": "AND A *STEERING WHEEL* THAT *MOVES*"
+    },
+    {
+      "s": 13.12,
+      "e": 16.96,
+      "zoom": [
+        1.0,
+        1.06
+      ],
+      "cap": "*15–25 MINUTES* OF RUN TIME"
+    },
+    {
+      "s": 17.22,
+      "e": 20.1,
+      "zoom": [
+        1.14,
+        1.18
+      ],
+      "cap": "THE BEST PART OF BUYING FROM *CRAZYRC*?"
+    },
+    {
+      "s": 20.48,
+      "e": 23.8,
+      "zoom": [
+        1.0,
+        1.05
+      ],
+      "cap": "AN *UPGRADED VERSION* AT THE *SAME PRICE*, WITH A *WINCH*"
+    },
+    {
+      "s": 24.12,
+      "e": 27.1,
+      "zoom": [
+        1.2,
+        1.25
+      ],
+      "cap": "IT *WORKS*! PLUS A *TARPAULIN* FOR THE BODY"
+    },
+    {
+      "s": 27.38,
+      "e": 31.36,
+      "zoom": [
+        1.06,
+        1.1
+      ],
+      "cap": "IF IT GETS *DAMAGED*, *6 MONTHS* OF *FREE REPAIRS*"
+    },
+    {
+      "s": 31.76,
+      "e": 34.26,
+      "zoom": [
+        1.0,
+        1.04
+      ],
+      "cap": "LISTED ON OUR WEBSITE AT *₹8,999*"
+    },
+    {
+      "s": 34.34,
+      "e": 37.56,
+      "zoom": [
+        1.2,
+        1.25
+      ],
+      "cap": "BUT THIS *DIWALI*, IT'S YOURS FOR JUST *₹7,999*"
+    },
+    {
+      "s": 37.96,
+      "e": 39.92,
+      "zoom": [
+        1.0,
+        1.08
+      ],
+      "cap": "BUY TODAY ON *CRAZYRC.IN*"
+    }
+  ],
+  "cues": {
+    "military": 6.88,
+    "shovel": 8.78,
+    "steering": 11.82,
+    "runtime": 15.08,
+    "crazyrc": 17.26,
+    "upgraded": 20.5,
+    "samePrice": 19.3,
+    "winch": 23.3,
+    "working": 24.3,
+    "tarpaulin": 25.8,
+    "damage": 28.04,
+    "months": 29.2,
+    "website": 32.34,
+    "price": 33.18,
+    "diwali": 34.56,
+    "offer": 36.82,
+    "buy": 38.22,
+    "url": 39.02
+  }
+}

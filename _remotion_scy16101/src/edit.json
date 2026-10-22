@@ -1,0 +1,48 @@
+{
+  "fps": 30,
+  "endCard": 4.2,
+  "segments": [
+    { "s": 0.30, "e": 4.82, "zoom": [1.0, 1.05], "cap": "", "layout": "FULL", "label": "INTRO" },
+    { "s": 5.14, "e": 6.90, "zoom": [1.06, 1.1], "cap": "", "layout": "FULL", "label": "TODAY" },
+    { "s": 7.06, "e": 9.00, "zoom": [1.0, 1.04], "cap": "", "layout": "TOP", "label": "MEET" },
+    { "s": 9.34, "e": 12.62, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "SPEED" },
+    { "s": 13.00, "e": 15.54, "zoom": [1.0, 1.04], "cap": "", "layout": "SPLIT", "label": "SUSPENSION" },
+    { "s": 15.68, "e": 17.40, "zoom": [1.0, 1.04], "cap": "", "layout": "BOTTOM", "label": "TYRES" },
+    { "s": 18.12, "e": 20.90, "zoom": [1.04, 1.08], "cap": "", "layout": "FULL", "label": "4WD" },
+    { "s": 21.22, "e": 23.16, "zoom": [1.0, 1.04], "cap": "", "layout": "TOP", "label": "MOTOR" },
+    { "s": 23.30, "e": 26.88, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "CONTROL" },
+    { "s": 27.14, "e": 28.20, "zoom": [1.04, 1.08], "cap": "", "layout": "FULL", "label": "SEND IT" },
+    { "s": 28.98, "e": 29.86, "zoom": [1.1, 1.12], "cap": "", "layout": "FULL", "label": "SEND IT" },
+    { "s": 29.92, "e": 32.04, "zoom": [1.0, 1.04], "cap": "", "layout": "TOP", "label": "CARE" },
+    { "s": 32.36, "e": 34.44, "zoom": [1.04, 1.06], "cap": "", "layout": "TOP", "label": "CARE" },
+    { "s": 34.94, "e": 39.06, "zoom": [1.0, 1.04], "cap": "", "layout": "SPLIT", "label": "PRICE" },
+    { "s": 39.46, "e": 41.54, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "DIWALI" },
+    { "s": 41.80, "e": 43.68, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "OFFER" },
+    { "s": 43.74, "e": 45.30, "zoom": [1.0, 1.06], "cap": "", "layout": "FULL", "label": "BUY" }
+  ],
+  "keys": [
+    { "t": 44.04, "layout": "TOP" }
+  ],
+  "caps": [
+    { "t": 5.14, "text": "THEN THIS ONE IS" }, { "t": 5.90, "text": "*FOR YOU*" },
+    { "t": 13.00, "text": "*INDEPENDENT*" }, { "t": 14.24, "text": "*SUSPENSION*" },
+    { "t": 15.68, "text": "*OFF-ROAD TYRES*" },
+    { "t": 18.12, "text": "YES, YOU HEARD" }, { "t": 19.02, "text": "*RIGHT*" }, { "t": 19.60, "text": "IT'S *4WD*" },
+    { "t": 21.22, "text": "WITH A" }, { "t": 21.88, "text": "*BRUSHED MOTOR*" },
+    { "t": 27.14, "text": "*JUMP IT* HARD" }, { "t": 28.98, "text": "*NO TENSION*" },
+    { "t": 29.92, "text": "CRAZYRC GIVES" }, { "t": 30.86, "text": "*6 MONTHS*" }, { "t": 31.38, "text": "*FREE REPAIR*" },
+    { "t": 32.36, "text": "IF IT *BREAKS*" }, { "t": 33.26, "text": "WE FIX IT *FREE*" },
+    { "t": 34.96, "text": "LISTED AT" }, { "t": 36.48, "text": "*₹12,500*" }, { "t": 37.40, "text": "WITH *COUPON*" }, { "t": 38.28, "text": "*₹11,500*" },
+    { "t": 43.74, "text": "BUY TODAY ON" }, { "t": 44.48, "text": "*CRAZYRC.IN*" }
+  ],
+  "cues": {
+    "fast": 1.40, "cars": 2.02, "jump": 3.94, "model": 5.64, "scy": 7.52, "num": 7.88,
+    "top": 9.60, "speed": 9.86, "forty": 10.26, "km": 10.54, "twos": 11.70,
+    "indep": 13.76, "suspension": 14.24, "offroad": 16.02, "tyres": 16.64,
+    "yes": 18.14, "right": 19.30, "fourwd": 19.78, "brush": 22.10, "motor": 22.32,
+    "steering": 23.74, "prop2": 24.50, "throttle": 24.90, "compulsory": 25.54,
+    "uchal": 27.78, "tension": 29.18, "crazyrc": 30.14, "months": 30.86, "free": 31.38,
+    "tute": 32.66, "free2": 33.70, "listed": 36.00, "p1": 36.64, "coupon": 37.74, "p2": 38.48,
+    "diwali": 39.90, "offerw": 40.74, "offer": 42.68, "buy": 44.04, "url": 44.66
+  }
+}

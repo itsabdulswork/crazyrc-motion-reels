@@ -1,0 +1,47 @@
+{
+  "fps": 30,
+  "endCard": 4.2,
+  "segments": [
+    { "s": 0.26, "e": 3.40, "zoom": [1.0, 1.05], "cap": "", "layout": "FULL", "label": "INTRO" },
+    { "s": 3.74, "e": 6.02, "zoom": [1.0, 1.03], "cap": "", "layout": "FULL", "label": "MEET" },
+    { "s": 7.10, "e": 9.52, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "DESIGN" },
+    { "s": 9.90, "e": 12.02, "zoom": [1.0, 1.04], "cap": "", "layout": "TOP", "label": "SCALE" },
+    { "s": 12.24, "e": 14.42, "zoom": [1.04, 1.08], "cap": "", "layout": "FULL", "label": "DRIVE" },
+    { "s": 14.58, "e": 16.44, "zoom": [1.0, 1.04], "cap": "", "layout": "SPLIT", "label": "CRAWLER" },
+    { "s": 17.50, "e": 21.38, "zoom": [1.0, 1.04], "cap": "", "layout": "BOTTOM", "label": "BATTERY" },
+    { "s": 21.52, "e": 22.50, "zoom": [1.04, 1.06], "cap": "", "layout": "TOP", "label": "CHARGING" },
+    { "s": 22.76, "e": 27.16, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "DETAILS" },
+    { "s": 27.16, "e": 31.44, "zoom": [1.0, 1.06], "cap": "", "layout": "FULL", "label": "CLEARANCE" },
+    { "s": 32.40, "e": 35.42, "zoom": [1.06, 1.12], "cap": "", "layout": "FULL", "label": "CARE" },
+    { "s": 35.68, "e": 37.46, "zoom": [1.0, 1.04], "cap": "", "layout": "TOP", "label": "CARE" },
+    { "s": 41.50, "e": 44.70, "zoom": [1.0, 1.04], "cap": "", "layout": "SPLIT", "label": "PRICE" },
+    { "s": 44.92, "e": 48.22, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "OFFER" },
+    { "s": 48.64, "e": 51.10, "zoom": [1.0, 1.06], "cap": "", "layout": "FULL", "label": "BUY" }
+  ],
+  "keys": [
+    { "t": 5.12, "layout": "TOP" },
+    { "t": 20.30, "layout": "TOP" },
+    { "t": 48.90, "layout": "TOP" }
+  ],
+  "caps": [
+    { "t": 3.80, "text": "THEN MEET THE" },
+    { "t": 10.02, "text": "IT COMES IN" }, { "t": 10.80, "text": "*1:12 SCALE*" },
+    { "t": 12.24, "text": "IT'S A" }, { "t": 12.92, "text": "*4WD*" },
+    { "t": 14.58, "text": "AN *EXCELLENT*" }, { "t": 15.12, "text": "*CRAWLER*" }, { "t": 15.70, "text": "FOR *BEGINNERS*" },
+    { "t": 17.54, "text": "BATTERY BACKUP" }, { "t": 18.64, "text": "UP TO *40 MINUTES*" },
+    { "t": 20.02, "text": "THE *BEST THING*?" }, { "t": 21.10, "text": "IT CHARGES VIA" }, { "t": 21.52, "text": "*TYPE-C*" },
+    { "t": 27.24, "text": "ITS *HIGH*" }, { "t": 28.40, "text": "*GROUND CLEARANCE*" }, { "t": 29.90, "text": "GIVES A GREAT *OFF-ROAD* FEEL" },
+    { "t": 32.40, "text": "AND THE *BEST PART*?" }, { "t": 33.46, "text": "EVEN IF IT GETS" }, { "t": 34.16, "text": "*DAMAGED*" },
+    { "t": 35.68, "text": "*6 MONTHS*" }, { "t": 36.70, "text": "*FREE REPAIR*" },
+    { "t": 41.56, "text": "LISTED ON CRAZYRC" }, { "t": 43.30, "text": "AT *₹10,000*" },
+    { "t": 48.64, "text": "BUY TODAY ON" }, { "t": 50.20, "text": "*CRAZYRC.IN*" }
+  ],
+  "cues": {
+    "military": 0.80, "cars": 1.28, "jjrc": 5.10, "c8835": 5.40, "hummer": 7.64, "simulated": 8.04,
+    "scale": 10.94, "fourwd": 12.92, "crawler": 15.18, "beginners": 15.96, "battery": 17.96, "forty": 18.94,
+    "best1": 20.34, "typec": 21.52, "cable": 21.80, "door": 23.66, "topshell": 24.76, "battcomp": 25.90,
+    "high": 28.10, "clearance": 28.76, "offroad": 30.28, "best2": 32.52, "damaged": 34.16,
+    "months": 35.74, "free": 36.72, "listed": 42.18, "price": 43.38, "diwali": 45.00, "offer": 47.60,
+    "buy": 48.96, "url": 50.26
+  }
+}

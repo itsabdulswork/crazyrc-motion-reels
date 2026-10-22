@@ -1,0 +1,20 @@
+# dependencies & build output
+node_modules/
+out/
+stills/
+stills_*/
+*.log
+
+# full-resolution masters (over GitHub's 100 MB limit) and intermediate renders
+*.mp4
+!videos/*.mp4
+
+# raw presenter footage, cut-out frames and voice recordings (kept private)
+_remotion_*/public/footage.mp4
+_remotion_*/public/hook*/
+_remotion_*/public/matte/
+_remotion_*/public/mix.wav
+_remotion_*/audio/*.wav
+
+# generated audio (re-create with the music scripts)
+_source/audio/*.wav

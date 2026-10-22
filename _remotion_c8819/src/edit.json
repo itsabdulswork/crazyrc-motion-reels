@@ -1,0 +1,291 @@
+{
+  "fps": 30,
+  "endCard": 3.8,
+  "segments": [
+    {
+      "s": 0.44,
+      "e": 3.7,
+      "zoom": [
+        1.0,
+        1.05
+      ],
+      "cap": ""
+    },
+    {
+      "s": 4.07,
+      "e": 7.03,
+      "zoom": [
+        1.08,
+        1.12
+      ],
+      "cap": "",
+      "hook": {
+        "tag": "JJRC",
+        "title": "C8819",
+        "size": 296,
+        "dir": "hookB",
+        "mode": "behind"
+      }
+    },
+    {
+      "s": 7.36,
+      "e": 10.8,
+      "zoom": [
+        1.0,
+        1.06
+      ],
+      "cap": ""
+    },
+    {
+      "s": 11.04,
+      "e": 13.68,
+      "zoom": [
+        1.16,
+        1.2
+      ],
+      "cap": ""
+    },
+    {
+      "s": 13.96,
+      "e": 16.36,
+      "zoom": [
+        1.0,
+        1.05
+      ],
+      "cap": ""
+    },
+    {
+      "s": 16.64,
+      "e": 17.42,
+      "zoom": [
+        1.2,
+        1.22
+      ],
+      "cap": ""
+    },
+    {
+      "s": 17.86,
+      "e": 19.44,
+      "zoom": [
+        1.06,
+        1.1
+      ],
+      "cap": ""
+    },
+    {
+      "s": 20.0,
+      "e": 24.62,
+      "zoom": [
+        1.0,
+        1.06
+      ],
+      "cap": ""
+    },
+    {
+      "s": 24.74,
+      "e": 28.16,
+      "zoom": [
+        1.18,
+        1.24
+      ],
+      "cap": ""
+    },
+    {
+      "s": 28.4,
+      "e": 30.86,
+      "zoom": [
+        1.0,
+        1.04
+      ],
+      "cap": ""
+    },
+    {
+      "s": 31.1,
+      "e": 34.04,
+      "zoom": [
+        1.14,
+        1.2
+      ],
+      "cap": ""
+    },
+    {
+      "s": 34.32,
+      "e": 36.14,
+      "zoom": [
+        1.0,
+        1.08
+      ],
+      "cap": ""
+    }
+  ],
+  "caps": [
+    {
+      "t": 8.8,
+      "text": "UP TO"
+    },
+    {
+      "t": 9.06,
+      "text": "*35 KM/H*"
+    },
+    {
+      "t": 10.1,
+      "text": "TOP SPEED"
+    },
+    {
+      "t": 13.96,
+      "text": "YOU GET"
+    },
+    {
+      "t": 14.44,
+      "text": "*4 INDEPENDENT*"
+    },
+    {
+      "t": 15.06,
+      "text": "*SUSPENSION*"
+    },
+    {
+      "t": 16.64,
+      "text": "PLUS *4*"
+    },
+    {
+      "t": 17.86,
+      "text": "*SPECIALLY MADE*"
+    },
+    {
+      "t": 18.5,
+      "text": "*OFF-ROAD TYRES*"
+    },
+    {
+      "t": 20.0,
+      "text": "THE *BEST PART*?"
+    },
+    {
+      "t": 21.26,
+      "text": "IF YOU *DAMAGE* IT"
+    },
+    {
+      "t": 22.4,
+      "text": "WE GIVE YOU"
+    },
+    {
+      "t": 22.92,
+      "text": "*6 MONTHS*"
+    },
+    {
+      "t": 23.56,
+      "text": "*FREE REPAIR*"
+    },
+    {
+      "t": 24.74,
+      "text": "NO MATTER HOW"
+    },
+    {
+      "t": 25.72,
+      "text": "*ROUGH* YOU DRIVE"
+    },
+    {
+      "t": 26.36,
+      "text": "IF IT *BREAKS*"
+    },
+    {
+      "t": 27.18,
+      "text": "WE FIX IT *FREE*"
+    },
+    {
+      "t": 28.4,
+      "text": "LISTED ON"
+    },
+    {
+      "t": 28.8,
+      "text": "*CRAZYRC*"
+    },
+    {
+      "t": 29.88,
+      "text": "AT *₹7,499*"
+    },
+    {
+      "t": 31.1,
+      "text": "BUT THIS"
+    },
+    {
+      "t": 31.34,
+      "text": "*DIWALI*"
+    },
+    {
+      "t": 32.26,
+      "text": "IT'S YOURS FOR"
+    },
+    {
+      "t": 33.2,
+      "text": "*₹6,500*"
+    },
+    {
+      "t": 34.32,
+      "text": "BUY TODAY ON"
+    },
+    {
+      "t": 35.32,
+      "text": "*CRAZYRC.IN*"
+    }
+  ],
+  "chapters": [
+    {
+      "t": 0.44,
+      "label": "INTRO"
+    },
+    {
+      "t": 7.36,
+      "label": "SPEED"
+    },
+    {
+      "t": 11.04,
+      "label": "OFF-ROAD"
+    },
+    {
+      "t": 13.96,
+      "label": "SUSPENSION"
+    },
+    {
+      "t": 16.64,
+      "label": "TYRES"
+    },
+    {
+      "t": 20.0,
+      "label": "CARE PLAN"
+    },
+    {
+      "t": 28.4,
+      "label": "PRICE"
+    }
+  ],
+  "cues": {
+    "budget": 1.12,
+    "tight": 1.86,
+    "need": 2.4,
+    "fast": 2.88,
+    "c8819": 6.08,
+    "upto": 8.82,
+    "speed": 9.08,
+    "kmh": 9.62,
+    "offroad": 11.76,
+    "adventure": 12.38,
+    "four": 14.46,
+    "suspension": 15.08,
+    "four2": 16.74,
+    "specially": 17.88,
+    "tyres": 18.9,
+    "best": 20.02,
+    "damage": 21.66,
+    "months": 22.94,
+    "free": 23.58,
+    "rough": 25.74,
+    "breaks": 26.56,
+    "fix": 27.38,
+    "crazyrc": 28.82,
+    "price": 30.02,
+    "diwali": 31.36,
+    "yours": 32.28,
+    "offer": 33.22,
+    "url": 35.34
+  }
+}

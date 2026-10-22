@@ -1,0 +1,39 @@
+{
+  "fps": 30,
+  "endCard": 4.2,
+  "segments": [
+    { "s": 0.62, "e": 2.58, "zoom": [1.0, 1.05], "cap": "", "layout": "FULL", "label": "INTRO" },
+    { "s": 2.70, "e": 5.54, "zoom": [1.0, 1.04], "cap": "", "layout": "TOP", "label": "DRIFT" },
+    { "s": 5.80, "e": 8.00, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "SPEED" },
+    { "s": 8.28, "e": 11.88, "zoom": [1.0, 1.04], "cap": "", "layout": "BOTTOM", "label": "BATTERY" },
+    { "s": 12.38, "e": 14.40, "zoom": [1.0, 1.04], "cap": "", "layout": "SPLIT", "label": "SUSPENSION" },
+    { "s": 14.62, "e": 16.26, "zoom": [1.04, 1.08], "cap": "", "layout": "FULL", "label": "DRIVE" },
+    { "s": 16.78, "e": 20.54, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "TYRES" },
+    { "s": 21.02, "e": 23.96, "zoom": [1.0, 1.04], "cap": "", "layout": "TOP", "label": "CARE" },
+    { "s": 24.06, "e": 29.16, "zoom": [1.04, 1.1], "cap": "", "layout": "FULL", "label": "DRIVE HARD" },
+    { "s": 29.68, "e": 33.12, "zoom": [1.0, 1.04], "cap": "", "layout": "SPLIT", "label": "PRICE" },
+    { "s": 33.44, "e": 35.92, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "DIWALI" },
+    { "s": 36.28, "e": 39.48, "zoom": [1.0, 1.0], "cap": "", "layout": "CIRCLE", "label": "OFFER" },
+    { "s": 39.88, "e": 41.42, "zoom": [1.0, 1.06], "cap": "", "layout": "FULL", "label": "BUY" }
+  ],
+  "keys": [
+    { "t": 40.10, "layout": "TOP" }
+  ],
+  "caps": [
+    { "t": 2.70, "text": "ONE OF THE" }, { "t": 3.38, "text": "*BEST DRIFT CARS*" }, { "t": 4.22, "text": "IN YOUR *BUDGET*" },
+    { "t": 8.28, "text": "*1300 MAH* BATTERY" }, { "t": 10.14, "text": "*15–20 MIN* RUNTIME" },
+    { "t": 12.40, "text": "YOU GET" }, { "t": 13.10, "text": "*4 SUSPENSION*" },
+    { "t": 14.68, "text": "AND IT'S" }, { "t": 15.20, "text": "*4WD*" },
+    { "t": 21.18, "text": "CRAZYRC GIVES YOU" }, { "t": 22.58, "text": "*6 MONTHS*" }, { "t": 23.22, "text": "*FREE REPAIRS*" },
+    { "t": 24.06, "text": "SO DRIVE IT" }, { "t": 25.86, "text": "*WITHOUT WORRY*" }, { "t": 26.78, "text": "ANY *DAMAGE*?" }, { "t": 27.60, "text": "WE REPAIR IT *FREE*" },
+    { "t": 29.68, "text": "IT'S A" }, { "t": 30.10, "text": "*₹11,500* CAR" }, { "t": 30.98, "text": "*₹10,500*" }, { "t": 31.82, "text": "WITH OUR *COUPON*" },
+    { "t": 39.88, "text": "BUY TODAY ON" }, { "t": 40.60, "text": "*CRAZYRC.IN*" }
+  ],
+  "cues": {
+    "scy": 1.26, "num": 1.56, "best": 3.38, "drift": 3.72, "budget": 5.02,
+    "top": 5.84, "speed": 6.22, "km": 6.52, "battery": 8.84, "mins": 10.34, "runtime": 11.30,
+    "four": 13.10, "suspension": 13.46, "fourwd": 15.20, "box": 18.46, "multiple": 19.06, "tyre": 19.60,
+    "crazyrc": 21.18, "months": 22.58, "free": 23.22, "bindas": 24.20, "bindas2": 25.86, "damage": 27.04, "repair": 28.26,
+    "p1": 30.10, "p2": 31.26, "coupon": 32.28, "diwali": 33.64, "special": 34.92, "offer": 37.68, "buy": 40.10, "url": 40.66
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fps": 30,
+  "endCard": 3.2,
+  "segments": [
+    { "s": 0.15, "e": 2.42, "zoom": [1.0, 1.06], "cap": "" },
+    { "s": 2.60, "e": 5.64, "zoom": [1.16, 1.2], "cap": "IT'S A *1:18 SCALE* ROCK *CRAWLER*" },
+    { "s": 5.80, "e": 10.16, "zoom": [1.0, 1.05], "cap": "*PROPORTIONAL* THROTTLE, *PROPORTIONAL* STEERING AND *3 SPEEDS*" },
+    { "s": 10.36, "e": 12.00, "zoom": [1.18, 1.22], "cap": "*MULTIPLE* LIGHTS" },
+    { "s": 12.18, "e": 16.54, "zoom": [1.0, 1.06], "cap": "*4 INDEPENDENT* SUSPENSION AND A *SOLID AXLE* UNDERNEATH" },
+    { "s": 16.64, "e": 20.36, "zoom": [1.12, 1.16], "cap": "ONE OF THE *BEST* RC CARS FOR *OFF-ROADING*" },
+    { "s": 20.52, "e": 24.66, "zoom": [1.0, 1.05], "cap": "AND THE BEST PART? IF IT EVER GETS *DAMAGED*" },
+    { "s": 24.84, "e": 27.66, "zoom": [1.22, 1.27], "cap": "*FREE REPAIRS* FOR THE FIRST *6 MONTHS*" },
+    { "s": 27.88, "e": 29.88, "zoom": [1.08, 1.1], "cap": "YES, *FREE REPAIRS* FROM *CRAZYRC*" },
+    { "s": 30.44, "e": 32.40, "zoom": [1.0, 1.04], "cap": "LISTED AT *₹15,000* ON OUR WEBSITE" },
+    { "s": 32.64, "e": 36.94, "zoom": [1.2, 1.25], "cap": "BUT THIS *DIWALI & DUSSEHRA* IT'S YOURS FOR *₹12,500*" },
+    { "s": 37.26, "e": 40.00, "zoom": [1.06, 1.1], "cap": "THAT'S *₹2,500 OFF* THIS MODEL" },
+    { "s": 40.14, "e": 42.62, "zoom": [1.0, 1.08], "cap": "BUY TODAY ON *CRAZYRC.IN*" }
+  ]
+}
